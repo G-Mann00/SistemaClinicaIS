@@ -1,0 +1,9 @@
+Paso 1: Restaurar base de datos siguiendo el tutorial
+https://www.youtube.com/watch?v=_UWJpWzdeuA
+
+Paso 2: Crear un OBDC
+https://www.youtube.com/watch?v=mZnAlu3xr7I
+
+Paso 2.1: Tener en cuenta el nombre del DNS en el codigo de conexion
+
+Paso 2.2: Despues de agregar los datos necesarios para el OBDC, seleccionar la base de datos que se importo
