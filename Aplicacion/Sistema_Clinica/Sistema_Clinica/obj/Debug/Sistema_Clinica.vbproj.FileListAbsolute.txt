@@ -1,0 +1,282 @@
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+C:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+E:\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+D:\Programas\Sitema de clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Inicio.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Usuarios.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Password.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Doctores.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Empleados.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Enfermeras.resources
+C:\Sitema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Pacientes.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Doctores.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Empleados.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Enfermeras.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Inicio.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Pacientes.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Password.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Usuarios.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Consultas.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Busqueda.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Doctores.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.Shared.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\FlashControlV71.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\ShockwaveFlashObjects.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\stdole.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Consultas.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Empleados.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Enfermeras.resources
+C:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Pacientes.resources
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+E:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+D:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+D:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+D:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+D:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+D:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+F:\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\stdole.dll
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Busqueda.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Consultas.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Doctores.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Empleados.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Enfermeras.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Inicio.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Pacientes.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Password.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Consultas.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Doctores.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Empleados.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Enfermeras.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Pacientes.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Usuarios.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+D:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\System.Net.Http.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\ShockwaveFlashObjects.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\System.Net.Http.xml
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\es\System.Net.Http.resources.dll
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Busqueda.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Consultas.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Doctores.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Empleados.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Enfermeras.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Inicio.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Pacientes.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Password.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Consultas.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Doctores.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Empleados.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Enfermeras.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Pacientes.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Usuarios.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+F:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+G:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+E:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+E:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+E:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+E:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+E:\Programa\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.pdb
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.xml
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\ShockwaveFlashObjects.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\stdole.dll
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbprojResolveAssemblyReference.cache
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Busqueda.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Consultas.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Doctores.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Empleados.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Enfermeras.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Inicio.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Menu.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Pacientes.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Password.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Piedepagina.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Presentacion.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Principal.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Consultas.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Doctores.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Empleados.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Enfermeras.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Rpt_Pacientes.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Frm_Usuarios.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.Resources.resources
+G:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.GenerateResource.Cache
+D:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\bin\Debug\Sistema_Clinica.exe.config
+D:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.vbproj.ResolveComReference.cache
+D:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.exe
+D:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.xml
+D:\AMERICAN COLLEGE\UAC 2020\Sistema de Clinica\Aplicacion\Sistema_Clinica\Sistema_Clinica\obj\Debug\Sistema_Clinica.pdb
